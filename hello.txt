@@ -6,5 +6,5 @@ hello zzz! hello git!
 hello zzz! hello git!
 hello zzz! hello git!
 hello zzz! hello git!
-hello zzz! hello git!
+hello zzz! hello git! master test
 hello zzz! hello git!
